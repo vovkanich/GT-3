@@ -1,2 +1,3 @@
 #! bin/bash
-echo my first git
+echo "My first git new"
+
